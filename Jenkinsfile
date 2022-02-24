@@ -1,5 +1,5 @@
 def secret = 'GitHub'
-def server = 'sgnd@192.168.3.174'
+def server = 'ubuntu@10.200.253.211'
 def directory = 'dumbways-cicd'
 def branch = 'main'
 
